@@ -11,11 +11,11 @@ I'm a **Cloud Engineer** based in Toronto with over 3 years of experience in tec
 - **Monitoring & Automation:** AWS Lambda, CloudFormation, GitHub Actions  
 - **Tools:** Git, Jira, ServiceNow, ITSM Remedy
 
-🎓 **Certifications & Learning**  
-AWS Certified Cloud Practitioner – Foundational       Amazon Web Services  - April 2025
-AWS Solutions Architect - Associate Specialization	  LearnkartS, Coursera - April 2025
-Architecting Solutions on AWS				                  Amazon Web Services, Coursera  - April 2025
-Building Data Lakes on AWS				                    Amazon Web Services, Coursera  - May 2025
+## 🎓 Certifications & Learning:
+- **AWS Certified Cloud Practitioner – Foundational**       Amazon Web Services  - April 2025
+- **AWS Solutions Architect - Associate Specialization**    LearnkartS, Coursera - April 2025
+- **Architecting Solutions on AWS**				                     Amazon Web Services, Coursera  - April 2025
+- **Building Data Lakes on AWS**				                        Amazon Web Services, Coursera  - May 2025
  
 
 ## 💡 Highlights:
