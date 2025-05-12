@@ -29,7 +29,6 @@ I’m excited to continue growing in the DevOps space and contribute meaningfull
 Stay tuned—more projects are on the way!
 
 ## 🛠️ Skills & Experience
-## 🛠️ Skills & Experience
 
 ☁️ **Cloud Platforms & Services:**  
 AWS (EC2, IAM, S3, Glue, ECS, EKS, CloudWatch, Lambda, EventBridge), GCP, Azure  
