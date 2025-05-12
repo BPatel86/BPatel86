@@ -2,7 +2,7 @@
 My Introduction 
 # 👋 Hi, I'm Binal Patel
 
-I'm a **Cloud Engineer** based in Toronto with over 3 years of experience in technical support, web development, and cloud infrastructure. I specialize in **AWS**, DevOps practices, CI/CD pipeline design, and serverless architecture. My technical acumen and customer-oriented approach have contributed to measurable productivity improvements and operational efficiencies in past roles.
+I'm a **Cloud Engineer** based in Toronto with over 3 years of experience in technical support, web development, and cloud infrastructure. I specialize in **AWS**, DevOps practices, CI/CD pipeline, and designing serverless architecture. My technical acumen and customer-oriented approach have contributed to measurable productivity improvements and operational efficiencies in past roles.
 
 ## 🔧 My Toolkit Includes:
 - **Cloud Platforms:** AWS (EC2, IAM, S3, ECS, EKS, Glue, CloudWatch), GCP, Azure  
