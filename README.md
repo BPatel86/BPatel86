@@ -10,6 +10,9 @@ I'm a **Cloud Engineer** based in Toronto with over 3 years of experience in tec
 - **Monitoring & Automation:** AWS Lambda, CloudFormation, GitHub Actions  
 - **Tools:** Git, Jira, ServiceNow, ITSM Remedy
 
+💡 **Soft Skills:**  
+Effective Communication, Time Management, Collaborative Teamwork, Leadership, Fast Learner, Self-Motivated, Customer-Oriented
+
 ## 🎓 Certifications & Learning:
 - **AWS Certified Cloud Practitioner – Foundational**       Amazon Web Services  - April 2025
 - **AWS Solutions Architect - Associate Specialization**    LearnkartS, Coursera - April 2025
@@ -28,42 +31,6 @@ My passion for technology stems from its power to transform ideas into scalable 
 I’m excited to continue growing in the DevOps space and contribute meaningfully to future cloud projects and collaborative teams.
 
 Stay tuned—more projects are on the way!
-
-## 🛠️ Skills & Experience
-
-☁️ **Cloud Platforms & Services:**  
-AWS (EC2, IAM, S3, Glue, ECS, EKS, CloudWatch, Lambda, EventBridge), GCP, Azure  
-
-🏗️ **Infrastructure as Code (IaC):**  
-Terraform, AWS CDK, CloudFormation  
-
-🤖 **CI/CD & Automation:**  
-Jenkins, CodePipeline, AWS Lambda, Ansible  
-
-🐳 **Containers & Orchestration:**  
-Docker, Kubernetes  
-
-🐧 **Operating Systems & Scripting:**  
-Linux (Ubuntu, CentOS), Windows Server, macOS  
-Scripting: Python, Bash, PowerShell, Java, Amazon Linux  
-
-📡 **Networking & Security:**  
-TCP/IP, DNS, DHCP, SMTP, SNMP, NTP, Load Balancing, Firewalls, VPN  
-
-🗃️ **Databases & Storage:**  
-MySQL, PostgreSQL, RedShift, DynamoDB, NoSQL  
-
-🔍 **Monitoring & Troubleshooting:**  
-System Monitoring, Log Analysis, Incident Management, Hardware/Software Issue Resolution  
-
-🧰 **Service & Collaboration Tools:**  
-Jira, Confluence, ServiceNow, ITSM Remedy  
-
-🔄 **Version Control & Development Tools:**  
-GitHub, GitLab, SDLC  
-
-💡 **Soft Skills:**  
-Effective Communication, Time Management, Collaborative Teamwork, Leadership, Fast Learner, Self-Motivated, Customer-Oriented
 
 ## 🌟 What I'm Up To
 🔭 Currently developing scalable AWS infrastructure projects focused on automation and reliability  
