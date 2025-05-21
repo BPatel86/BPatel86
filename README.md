@@ -10,7 +10,7 @@ I'm a **Cloud Engineer** based in Toronto with over 3 years of experience in tec
 - **Monitoring & Automation:** AWS Lambda, CloudFormation, GitHub Actions  
 - **Tools:** Git, Jira, ServiceNow, ITSM Remedy
 
-💡 **Soft Skills:**  
+## 💡 Soft Skills:
 Effective Communication, Time Management, Collaborative Teamwork, Leadership, Fast Learner, Self-Motivated, Customer-Oriented
 
 ## 🎓 Certifications & Learning:
