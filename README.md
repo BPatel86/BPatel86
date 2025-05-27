@@ -18,6 +18,8 @@ Effective Communication, Time Management, Collaborative Teamwork, Leadership, Fa
 - **AWS Solutions Architect - Associate Specialization**    LearnkartS, Coursera - April 2025
 - **Architecting Solutions on AWS**				                     Amazon Web Services, Coursera  - April 2025
 - **Building Data Lakes on AWS**				                        Amazon Web Services, Coursera  - May 2025
+- **AWS DevOps Training Program**                           Resolve6 Software Solutions, Completed 2024
+
  
 
 ## 💡 Highlights:
